@@ -1,0 +1,40 @@
+@import "login.css";
+@import "backgroundImage.css";
+@import "quote.css";
+@import "main.css";
+@import "day.css";
+@import "todo.css";
+@import "menu.css";
+
+* {
+    box-sizing: border-box;
+}
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.top{
+    display: flex;
+    justify-content: center;
+    height: 80%;
+    align-items:center;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
